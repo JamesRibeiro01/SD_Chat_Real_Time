@@ -7,8 +7,8 @@
 
 
 # GRUPO
- Thiago Batista Barbosa Ribeiro
- Caio Victor
- Thalis 
- Bruno Campos
- Marcus Vinicius
+# Thiago Batista Barbosa Ribeiro
+# Caio Victor
+# Thalis 
+# Bruno Campos
+# Marcus Vinicius
