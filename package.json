@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JamesRibeiro01/SD_Chat_Real_Time#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0"
   }
 }
